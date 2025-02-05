@@ -1,0 +1,14 @@
+C:\Users\Dobrynya\Desktop\Диплом\Diplom.DAL\bin\Debug\net8.0\Diplom.DAL.deps.json
+C:\Users\Dobrynya\Desktop\Диплом\Diplom.DAL\bin\Debug\net8.0\Diplom.DAL.runtimeconfig.json
+C:\Users\Dobrynya\Desktop\Диплом\Diplom.DAL\bin\Debug\net8.0\Diplom.DAL.dll
+C:\Users\Dobrynya\Desktop\Диплом\Diplom.DAL\bin\Debug\net8.0\Diplom.DAL.pdb
+C:\Users\Dobrynya\Desktop\Диплом\Diplom.DAL\obj\Debug\net8.0\Diplom.DAL.csproj.AssemblyReference.cache
+C:\Users\Dobrynya\Desktop\Диплом\Diplom.DAL\obj\Debug\net8.0\Diplom.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dobrynya\Desktop\Диплом\Diplom.DAL\obj\Debug\net8.0\Diplom.DAL.AssemblyInfoInputs.cache
+C:\Users\Dobrynya\Desktop\Диплом\Diplom.DAL\obj\Debug\net8.0\Diplom.DAL.AssemblyInfo.cs
+C:\Users\Dobrynya\Desktop\Диплом\Diplom.DAL\obj\Debug\net8.0\Diplom.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Dobrynya\Desktop\Диплом\Diplom.DAL\obj\Debug\net8.0\Diplom.DAL.dll
+C:\Users\Dobrynya\Desktop\Диплом\Diplom.DAL\obj\Debug\net8.0\refint\Diplom.DAL.dll
+C:\Users\Dobrynya\Desktop\Диплом\Diplom.DAL\obj\Debug\net8.0\Diplom.DAL.pdb
+C:\Users\Dobrynya\Desktop\Диплом\Diplom.DAL\obj\Debug\net8.0\Diplom.DAL.genruntimeconfig.cache
+C:\Users\Dobrynya\Desktop\Диплом\Diplom.DAL\obj\Debug\net8.0\ref\Diplom.DAL.dll
